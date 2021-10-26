@@ -11,7 +11,7 @@ name: By_XiMeng
 description: 工作的事情不能跟爹谈，生活的烦恼也不能跟妈说，歌里面的都是在瞎唱。
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: blog.notwar.ml
+url: https://blog.notwar.ml
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
