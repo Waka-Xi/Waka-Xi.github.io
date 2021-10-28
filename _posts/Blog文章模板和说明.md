@@ -28,6 +28,7 @@ tags:
 comments: #评论，true/false
 pinned: #置顶，true/false
 excerpt: #摘要
+toc: #开启目录，true/false
 ---
 ```
 
@@ -35,13 +36,14 @@ LOFFER 这个主题里面，写文可以直接复制一下默认内容，按需�
 
 ```yaml
 ---
+toc: true
 layout: post
+comments: false
+author: Robot_No.412
 title: #标题
 date: #日期
-author: Robot_No.412
 permalink: #静态链接
 tags: #按需添加
-comments: false
 excerpt: #摘要
 ---
 ```
