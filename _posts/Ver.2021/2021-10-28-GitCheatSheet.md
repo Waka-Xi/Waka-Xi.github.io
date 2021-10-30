@@ -8,7 +8,7 @@ date: 2021-10-28
 permalink: 2021_GitCheatSheet
 tags: 
     - git
-    - 存档
+    - 备忘录
 excerpt: 一份实用的 git 使用指南，在 Github 上发现的，存档一下，方便需要的时候看看。
 ---
 
