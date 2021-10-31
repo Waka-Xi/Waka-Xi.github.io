@@ -55,17 +55,17 @@ excerpt: 又又又弄好了一个 blog ，这次应该是最后一次了，吧�
 
 ```yml
 父目录/
-	-年份子目录/
-		-月份子目录/
-			-Pic/ 
-				1.png
-				2.png
-			1.md
-			2.md
-	-_post/
-		1.md
-	-Pic/
-		1.png
+  -年份子目录/
+    -月份子目录/
+      -Pic/ 
+        1.png
+        2.png
+      1.md
+      2.md
+  -_post/
+    1.md
+  -Pic/
+    1.png
 ```
 
 这样的话，所有 post 里面的 md 文件，要引用 Pic/ 里面图片，必要需要这样写：`/Pic/1.png`，不然网站上面就看不到图片。但是这样写，Obsidian 就没法看到图片。不过幸好，这种事情不是很麻烦，本地的时候只要写成`Pic/1.png`发布之前统一替换一下就好而。
@@ -98,13 +98,13 @@ toc: #开启目录，true/false
 ---
 ```
 
-### 总结
+## 总结
 
 其实这样就可以开始了，对于内容输出平台来说，最重要的事情是持续有效的产出，其他的都是辅助产出，切不可本末倒置。
 
 关于和 Obsidian 联动，其实就是通过 Windows 的目录链接方式把一个文件夹同时链接到两个不同的地方方便不同的软件分别管理。具体内容不展开了，不过姑且还是备份一下链接吧。
 
-### 参考链接
+## 参考链接
 
 1. https://fromendworld.github.io/LOFFER/document/ | 主题文档
 2. https://night1008.github.io/2019/11/09/jekyll-add-rss-feed.html | 为 Jekyll 博客添加 RSS feed 订阅功能
