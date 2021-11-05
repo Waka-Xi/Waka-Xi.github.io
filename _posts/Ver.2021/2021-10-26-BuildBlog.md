@@ -106,8 +106,8 @@ toc: #开启目录，true/false
 
 ## 参考链接
 
-1. https://fromendworld.github.io/LOFFER/document/ | 主题文档
-2. https://night1008.github.io/2019/11/09/jekyll-add-rss-feed.html | 为 Jekyll 博客添加 RSS feed 订阅功能
-3. https://mazhuang.org/2020/10/07/cdn-for-github-pages-2/ | CDN 加速
-4. https://daemon369.github.io/blog/2013/09/13/jekyll-document-04-front-matter | Jekyll 文档——Front-matter，这里面其他内容有兴趣也可以研究一下，有一个系列关于 Jekyll 的。
-5. https://sspai.com/post/66834 | 关于 Windows 上软链接和硬链接的
+1. [主题文档](https://fromendworld.github.io/LOFFER/document/)
+2. [为 Jekyll 博客添加 RSS feed 订阅功能](https://night1008.github.io/2019/11/09/jekyll-add-rss-feed.html)
+3. [CDN 加速](https://mazhuang.org/2020/10/07/cdn-for-github-pages-2/)
+4. [Jekyll 文档——Front-matter，这里面其他内容有兴趣也可以研究一下，有一个系列关于 Jekyll 的。](https://daemon369.github.io/blog/2013/09/13/jekyll-document-04-front-matter)
+5. [关于 Windows 上软链接和硬链接的](https://sspai.com/post/66834)
